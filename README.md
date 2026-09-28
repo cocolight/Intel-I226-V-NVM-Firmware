@@ -4,13 +4,13 @@ Firmware files for the Intel I225-V and I226-V network controllers, available in
 ---
 
 ### I225-V
-| 1MB File Name               | Ver | EtrackID | 2MB File Name               | Ver | EtrackID |
-|-----------------------------|-----|----------|-----------------------------|-----|----------|
-| `FXVL_15F3_V_1MB_1.45.bin`  |1.45 | 80000150 | `FXVL_15F3_V_2MB_1.45.bin`  |1.45 | 8000014B |
-| `FXVL_15F3_V_1MB_1.57.bin`  |1.57 | 80000182 | `FXVL_15F3_V_2MB_1.57.bin`  |1.57 | 80000185 |
-| `FXVL_15F3_V_1MB_1.68.bin`  |1.68 | 800001CE | `FXVL_15F3_V_2MB_1.68.bin`  |1.68 | 800001C7 |
-| `FXVL_15F3_V_1MB_1.89.bin`  |1.89 | 800002FC | `FXVL_15F3_V_2MB_1.89.bin`  |1.89 | 800002F4 |
-|                             |     |          |                             |     |          |
+| 1MB File Name              | Ver  | EtrackID | 2MB File Name              | Ver  | EtrackID |
+| -------------------------- | ---- | -------- | -------------------------- | ---- | -------- |
+| `FXVL_15F3_V_1MB_1.45.bin` | 1.45 | 80000150 | `FXVL_15F3_V_2MB_1.45.bin` | 1.45 | 8000014B |
+| `FXVL_15F3_V_1MB_1.57.bin` | 1.57 | 80000182 | `FXVL_15F3_V_2MB_1.57.bin` | 1.57 | 80000185 |
+| `FXVL_15F3_V_1MB_1.68.bin` | 1.68 | 800001CE | `FXVL_15F3_V_2MB_1.68.bin` | 1.68 | 800001C7 |
+| `FXVL_15F3_V_1MB_1.89.bin` | 1.89 | 800002FC | `FXVL_15F3_V_2MB_1.89.bin` | 1.89 | 800002F4 |
+| `FXVL_15F3_V_1MB_1.94.bin` | 1.94 | 800003FC |                            |      |          |
 
 ---
 
